@@ -11,7 +11,7 @@ int main ()
 	vector<int> binario;
 
     cout << "Digite um numero inteiro" << endl; //printf("Digite um numero inteiro: "); 
-    cin >> numero;								//scanf("%d", &numero);
+    cin >> numero; //scanf("%d", &numero);
 	
 	if (numero == 0)
 		binario.push_back(0);
