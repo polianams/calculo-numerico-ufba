@@ -8,7 +8,7 @@ Bem-vindo ao repositório de exercícios Cálculo Númerico usando c++. Neste re
 
 A disciplina de Cálculo Númerico da UFBA possui como propósito fornecer conhecimentos dos principais métodos numéricos assim como do tratamento de problemas científicos através de métodos numéricos. Logo, o objetivo deste repositório é servir como um espaço para a prática e aprendizado de alguns método númericos, especialmente utilizando a linguagem C++. Aqui você encontrará uma coleção de exercícios que abrangem diversos tópicos, desde transformar numeros em binários até métodos númericos mais avançados. Sinta-se à vontade para explorar, estudar e contribuir!
 
-## Pré-requisitos 
+**Pré-requisitos** 
 
 - MAT045 – Processamento de Dados ou MATA37 - Introdução à Lógica de Programação;
 - MATB38 – Álgebra Linear I-B
