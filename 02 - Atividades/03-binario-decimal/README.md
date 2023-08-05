@@ -16,7 +16,6 @@ O programa imprimirá o valor decimal equivalente ao número binário fornecido,
 ## Exemplo de Saída 📤
 ```
 O valor em decimal é: 42
-O valor em decimal é: 42
 ```
 
 ## Explicação do Código 💡
