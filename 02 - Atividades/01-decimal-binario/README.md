@@ -5,17 +5,21 @@
 Este é um programa em C++ que realiza a conversão de um número decimal para sua representação binária. O programa recebe um número inteiro como entrada e produz a saída correspondente em forma de binário.
 
 ## Entrada 📥
+
 O arquivo de entrada contém um valor inteiro, que representa o número decimal a ser convertido para binário.
 
 ## Saída 📤
+
 O programa imprimirá a representação binária do número fornecido como entrada. A saída consistirá em uma sequência de dígitos binários, sem espaços ou caracteres adicionais.
 
 ## Exemplo de Entrada 🚀
+
 ```
 13
 ```
 
 ## Exemplo de Saída 📤
+
 ```
 1101
 ```
@@ -35,4 +39,5 @@ O programa começa por receber um número inteiro da entrada padrão usando a fu
 5. Por fim, o programa percorre o vetor `binario` e imprime cada dígito, produzindo assim a representação binária do número decimal.
 
 ## Nível do Problema ⚙️
-Médio - Nível 1
+
+Intermediário - Nível 1
