@@ -40,4 +40,4 @@ Essa função recebe um número decimal como entrada e divide-o em parte inteira
 
 ## Nível do Problema ⚙️
 
-Médio - Nível 3
+Intermediário - Nível 3
